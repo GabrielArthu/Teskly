@@ -27,11 +27,11 @@ import {useTheme} from '../theme/ThemeContext';
 import {Theme} from '../theme/Theme';
 
 const avatars = [
-  {id: 1, source: require('../assets/avatarr1.jpg')},
-  {id: 2, source: require('../assets/avatarr2.jpg')},
-  {id: 3, source: require('../assets/avatarr3.jpg')},
-  {id: 4, source: require('../assets/avatarr4.jpg')},
-  {id: 5, source: require('../assets/avatarr5.jpg')},
+  {id: 1, source:  {uri: "https://tesklyprofilepics.s3.us-east-2.amazonaws.com/Pics/avatar_1.png"}},
+  {id: 2, source:  {uri: "https://tesklyprofilepics.s3.us-east-2.amazonaws.com/Pics/avatar_2.png"}},
+  {id: 3, source:  {uri: "https://tesklyprofilepics.s3.us-east-2.amazonaws.com/Pics/avatar_3.png"}},
+  {id: 4, source:  {uri: "https://tesklyprofilepics.s3.us-east-2.amazonaws.com/Pics/avatar_4.png"}},
+  {id: 5, source:  {uri: "https://tesklyprofilepics.s3.us-east-2.amazonaws.com/Pics/avatar_5.png"}},
 ];
 
 interface AvatarSelectionScreenParams {

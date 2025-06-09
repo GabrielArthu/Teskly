@@ -7,11 +7,12 @@ import {useTheme} from '../../theme/ThemeContext';
 import {useAuth} from '../../context/AuthContext';
 
 const avatarImages: Record<string, any> = {
-  avatar_1: require('../../assets/avatarr1.jpg'),
-  avatar_2: require('../../assets/avatarr2.jpg'),
-  avatar_3: require('../../assets/avatarr3.jpg'),
-  avatar_4: require('../../assets/avatarr4.jpg'),
-  avatar_5: require('../../assets/avatarr5.jpg'),
+  avatar_1: {uri: "https://tesklyprofilepics.s3.us-east-2.amazonaws.com/Pics/avatar_1.png"},
+  avatar_2: {uri: "https://tesklyprofilepics.s3.us-east-2.amazonaws.com/Pics/avatar_2.png"},
+  avatar_3: {uri: "https://tesklyprofilepics.s3.us-east-2.amazonaws.com/Pics/avatar_3.png"},
+  avatar_4: {uri: "https://tesklyprofilepics.s3.us-east-2.amazonaws.com/Pics/avatar_4.png"},
+  avatar_5: {uri: "https://tesklyprofilepics.s3.us-east-2.amazonaws.com/Pics/avatar_5.png"},
+
 };
 
 const HeaderIntern: React.FC = () => {
