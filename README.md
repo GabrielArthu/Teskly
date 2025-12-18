@@ -2,7 +2,7 @@
 
 Taskly é um aplicativo mobile completo desenvolvido em React Native para ajudar você a organizar suas tarefas, definir prazos, prioridades e personalizar seu perfil. O app foi criado como parte de um desafio técnico, com foco em usabilidade, validação e funcionalidades robustas.
 
-[🔗 Clique aqui para acessar o layout no Figma](#) <!-- Substitua pelo link real do Figma -->
+[🔗 Clique aqui para acessar o layout no Figma](https://www.figma.com/design/oDdwmnAHxQPM7pfVjm3zDw/Taskly-UI-Alt?m=auto&t=gdDiTVClICgfw8sE-6) <!-- Substitua pelo link real do Figma -->
 
 ---
 
